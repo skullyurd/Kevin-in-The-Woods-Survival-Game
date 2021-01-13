@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: aa7c671a975a0034d8ff9108d8a945be
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: low_polly_berry:pSphere1
+    100004: low_poly_axe:pCube1
+    100006: low_poly_bandage:pCylinder1
+    100008: low_poly_bush:pSphere1
+    100010: low_poly_bush:pSphere2
+    100012: low_poly_bush:pSphere3
+    100014: low_poly_bush:pSphere4
+    100016: low_poly_bush:pSphere5
+    100018: low_poly_bush:pSphere6
+    100020: low_poly_bush:transform1
+    100022: low_poly_bush:transform2
+    100024: low_poly_bush:transform3
+    100026: low_poly_bush:transform4
+    100028: low_poly_bush:transform5
+    100030: low_poly_chicken:pCube1
+    100032: low_poly_leather:polySurface1
+    100034: low_poly_slaapzak:pCube1
+    100036: low_poly_spear:pCube1
+    100038: low_poly_stick:pCube1
+    100040: low_poly_tent:pCylinder1
+    100042: low_poly_tent:pCylinder2
+    100044: low_poly_tent:pCylinder3
+    100046: low_poly_tent:pCylinder4
+    100048: low_poly_tent:pPlane1
+    100050: low_poly_tent:pPlane2
+    100052: low_poly_tent:pPlane3
+    100054: low_poly_tent:transform1
+    100056: low_poly_tent:transform2
+    100058: low_poly_tent:transform3
+    100060: low_poly_tent:transform4
+    100062: low_poly_tent:transform5
+    100064: low_poly_tent:transform6
+    100066: polySurface1
+    100068: polySurface2
+    100070: polySurface2 1
+    100072: polySurface3
+    100074: polySurface4
+    100076: polySurface4 1
+    100078: polySurface5
+    100080: sword_low_poly:pCube1
+    100082: sword_low_poly:pCube2
+    100084: transform1
+    100086: transform2
+    100088: transform3
+    100090: transform4
+    100092: transform5
+    100094: transform6
+    100096: transform7
+    100098: wolf_2:CINEMA_4D_Editor
+    400000: //RootNode
+    400002: low_polly_berry:pSphere1
+    400004: low_poly_axe:pCube1
+    400006: low_poly_bandage:pCylinder1
+    400008: low_poly_bush:pSphere1
+    400010: low_poly_bush:pSphere2
+    400012: low_poly_bush:pSphere3
+    400014: low_poly_bush:pSphere4
+    400016: low_poly_bush:pSphere5
+    400018: low_poly_bush:pSphere6
+    400020: low_poly_bush:transform1
+    400022: low_poly_bush:transform2
+    400024: low_poly_bush:transform3
+    400026: low_poly_bush:transform4
+    400028: low_poly_bush:transform5
+    400030: low_poly_chicken:pCube1
+    400032: low_poly_leather:polySurface1
+    400034: low_poly_slaapzak:pCube1
+    400036: low_poly_spear:pCube1
+    400038: low_poly_stick:pCube1
+    400040: low_poly_tent:pCylinder1
+    400042: low_poly_tent:pCylinder2
+    400044: low_poly_tent:pCylinder3
+    400046: low_poly_tent:pCylinder4
+    400048: low_poly_tent:pPlane1
+    400050: low_poly_tent:pPlane2
+    400052: low_poly_tent:pPlane3
+    400054: low_poly_tent:transform1
+    400056: low_poly_tent:transform2
+    400058: low_poly_tent:transform3
+    400060: low_poly_tent:transform4
+    400062: low_poly_tent:transform5
+    400064: low_poly_tent:transform6
+    400066: polySurface1
+    400068: polySurface2
+    400070: polySurface2 1
+    400072: polySurface3
+    400074: polySurface4
+    400076: polySurface4 1
+    400078: polySurface5
+    400080: sword_low_poly:pCube1
+    400082: sword_low_poly:pCube2
+    400084: transform1
+    400086: transform2
+    400088: transform3
+    400090: transform4
+    400092: transform5
+    400094: transform6
+    400096: transform7
+    400098: wolf_2:CINEMA_4D_Editor
+    2000000: wolf_2:CINEMA_4D_Editor
+    2100000: 14 - Default
+    2100002: 08 - Default
+    2100004: 03 - Default
+    2100006: 02 - Default
+    2100008: 01 - Default
+    2100010: 07 - Default
+    2100012: 13 - Default
+    2100014: 09 - Default
+    2100016: lambert1
+    2100018: 15 - Default
+    2100020: 19 - Default
+    2300000: low_polly_berry:pSphere1
+    2300002: low_poly_axe:pCube1
+    2300004: low_poly_bandage:pCylinder1
+    2300006: low_poly_bush:pSphere6
+    2300008: low_poly_chicken:pCube1
+    2300010: low_poly_leather:polySurface1
+    2300012: low_poly_slaapzak:pCube1
+    2300014: low_poly_spear:pCube1
+    2300016: low_poly_stick:pCube1
+    2300018: polySurface2
+    2300020: sword_low_poly:pCube2
+    3300000: low_polly_berry:pSphere1
+    3300002: low_poly_axe:pCube1
+    3300004: low_poly_bandage:pCylinder1
+    3300006: low_poly_bush:pSphere6
+    3300008: low_poly_chicken:pCube1
+    3300010: low_poly_leather:polySurface1
+    3300012: low_poly_slaapzak:pCube1
+    3300014: low_poly_spear:pCube1
+    3300016: low_poly_stick:pCube1
+    3300018: polySurface2
+    3300020: sword_low_poly:pCube2
+    4300000: low_polly_berry:pSphere1
+    4300002: low_poly_axe:pCube1
+    4300004: low_poly_bandage:pCylinder1
+    4300006: low_poly_bush:pSphere6
+    4300008: low_poly_chicken:pCube1
+    4300010: low_poly_leather:polySurface1
+    4300012: low_poly_slaapzak:pCube1
+    4300014: low_poly_spear:pCube1
+    4300016: low_poly_stick:pCube1
+    4300018: sword_low_poly:pCube2
+    4300020: polySurface2
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
